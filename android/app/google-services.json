@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482367247231",
+    "project_id": "grooming-essence",
+    "storage_bucket": "grooming-essence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482367247231:android:aec6764a789168eedd404a",
+        "android_client_info": {
+          "package_name": "grooming_essence.com.example.grooming_essence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482367247231-r1rhadqm0ghkemkp8bad243fecjv4f5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATtaJquAySyzTf6CploD6-vv-oW6oUiG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482367247231-r1rhadqm0ghkemkp8bad243fecjv4f5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
